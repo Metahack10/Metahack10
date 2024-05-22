@@ -19,4 +19,13 @@
 </div>
 
 <!-------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
-##My Skills
+## My Skills
+<p align="center">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kali-Dark.svg" width="48" title="Kali Linux"> 
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" width="48" title="Bash Scripting">  
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Powershell-Dark.svg" width="48" title="Powershell">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="48" title="Python">
+ <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" width="48" title="AWS Security">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="48" title="Vscode">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Notion-Dark.svg" width="48" title="Notion"> 
+<p/>

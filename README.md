@@ -35,5 +35,5 @@ Aqui encontraras diferentes tipos de proyectos a los que me he dedicado a lo lar
  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" width="48" title="AWS Security">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="48" title="Vscode">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Notion-Dark.svg" width="48" title="Notion">
-<img src="https://github.com/Metahack10/my_vault/blob/master/Iconos/HTB.png" width="48" title="HackTheBox" style="opacity: 0.8">
+<img src="https://github.com/Metahack10/my_vault/blob/master/Iconos/HTB1.png" width="48" title="HackTheBox">
 </p>

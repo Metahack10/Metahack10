@@ -6,12 +6,23 @@ Aqui encontraras diferentes tipos de proyectos a los que me he dedicado a lo lar
  
 <!-------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1&color=4DF71F&vCenter=true&repeat=false&random=false&width=435&lines=%F0%9F%93%88+Mi+Actividad)](https://git.io/typing-svg)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Metahack10&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Metahack10&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true&title_color=02D9F7FF&days=6)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1&color=4DF71F&vCenter=true&repeat=false&random=false&width=435&lines=%F0%9F%8F%85+Mis+Certificaciones)](https://git.io/typing-svg)
 
-
+<p align="center">
+<img src="https://github.com/Metahack10/my_vault/blob/master/Iconos/CC1.png" width="48" title="Certified In Cybersecurity">
+<img src="https://github.com/Metahack10/my_vault/blob/master/Iconos/CEH1.png" width="48" title="Certified Ethical Hacker">
+<img src="https://github.com/Metahack10/my_vault/blob/master/Iconos/eJPT1.png" width="48" title="eLearn Junior Penetration Tester">
+<img src="https://github.com/Metahack10/my_vault/blob/master/Iconos/eCPPT1.png" width="48" title="eLearn Certified Professional Penetration Tester">
+<img src="https://github.com/Metahack10/my_vault/blob/master/Iconos/ComptiaSec+1.png" width="48" title="Comptia Security">
+<img src="https://github.com/Metahack10/my_vault/blob/master/Iconos/ISO27032_1.png" width="48" title="Lead Cybersecurity Manager">
+<img src="https://github.com/Metahack10/my_vault/blob/master/Iconos/ISO27001_1.png" width="48" title="Lead Auditor">
+<img src="https://github.com/Metahack10/my_vault/blob/master/Iconos/Cobit5F1.png" width="48" title="Cobit 5 Foundation">
+<img src="https://github.com/Metahack10/my_vault/blob/master/Iconos/CSPO1.png" width="48" title="Certified Scrum Product Owner">
+<img src="https://github.com/Metahack10/my_vault/blob/master/Iconos/SMPC1.png" width="48" title="Scrum Master Professional Certificate"> 
+</p>
 
 <!-------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1&color=4DF71F&vCenter=true&repeat=false&random=false&width=435&lines=%F0%9F%A6%B8%F0%9F%8F%BB%E2%80%8D%E2%99%82%EF%B8%8F+My+Skills)](https://git.io/typing-svg)

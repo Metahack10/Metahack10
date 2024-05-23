@@ -1,4 +1,8 @@
- ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=Hola👋;Soy+Jorge+Lopez;Ingeniero+de+Ciberseguridad;Bienvenido!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=Hola👋;Soy+Metahack;Ingeniero+de+Ciberseguridad;Bienvenido!)
+
+<p>Mi nombre es <strong>Jorge Lopez</strong>, soy licenciado en ingenieria informática con <strong>especialización en seguridad de la información</strong>👨🏻‍🎓, actualmente me desempeño como Jefe de Seguridad de la Información en una empresa Agroindustrial🏭. En mi tiempo libre me encanta investigar y realizar pruebas de concepto (POC) de vulnerabilidades y desarrollar scripts para automatizar tareas⚙️.
+
+Aqui encontraras diferentes tipos de proyectos a los que me he dedicado a lo largo de mi profesión🗂️, que van desde: desarrollo de scripts para escaneos, explotacion, pruebas de conceptos, automatización de tareas, ejercicios para aprender lenguajes de programación, laboratorios de penetration test y personalización de entornos, entre otros. <strong>¡Espero que disfrutes explorando mis proyectos!</strong></p>
  
 <!-------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 ## 📈 Mi Actividad
